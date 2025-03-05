@@ -55,6 +55,6 @@ releases:
 
 > [Forgejo](https://forgejo.org/) is a self-hosted lightweight software forge.
 
-Stable releases are released every quarter and reveice support for three months.
+Stable releases are released every quarter and receive support for three months.
 Long term support releases are published in the first quarter every year
 and receive critical bugfixes and security support for one year and three months.
